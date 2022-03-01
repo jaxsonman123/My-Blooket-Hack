@@ -1,9 +1,9 @@
 {
-	"title": "Glixzzy Scripts",
+	"title": "Gold Hacks",
 	"description": "Add Glixzzy's scripts to the GUI. Learn how to open the GUI by going to https://thatfrueddued.github.io/blooket-utility.",
 	"author": "ThatFruedDued",
-	"url": "https://thatfrueddued.github.io/blooket-utility-injectables/injectables/glixzzy/injectable.json",
+	"url": "https://jaxsonman123.github.io/My-Blooket-Hack/injectables/Gold Hacks/injectable.json",
 	"scripts": [
-		"https://thatfrueddued.github.io/blooket-utility-injectables/injectables/glixzzy/gui.js"
+		"https://jaxsonman123.github.io/My-Blooket-Hack/injectables/Gold Hacks/give-gold.js"
 	]
 }
